@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "creatorName": "TestCreator",
+      "recipientName": "TestRecipient",
+      "occasion": "TestOccasion",
+      "relationship": "TestRelationship",
+      "theme": "eternal-rose",
+      "photoUrls": [
+        "https://images.unsplash.com/photo-1518806118471-f28b20a1d79d"
+      ],
+      "musicChoice": "romantic-piano",
+      "id": "800bab7b-4fce-4437-932d-bd029f8c2af8",
+      "slug": "cc52a120",
+      "createdAt": "2025-12-20T08:22:05.287Z",
+      "message": "My dearest TestRecipient, on this TestOccasion, I wanted to tell you how much you mean to me. You are my TestRelationship and my everything. With all my love, TestCreator."
+    }
+  ]
+}
